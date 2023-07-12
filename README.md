@@ -1,3 +1,4 @@
+![car_renting](https://github.com/anishjangid/GoZee-car-renting-website/assets/78318783/b13171b1-446b-4935-bf89-b05f67191c91)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
